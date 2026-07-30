@@ -27,7 +27,7 @@ A lightweight Bash CLI for AI API interactions.
 git clone https://github.com/live-by-unix/ask-ai.git
 cd ask-ai
 ```
-(Or download a release!) 
+(Or download a release & unzip) 
 
 2. Ensure dependencies are installed:
 ```bash
