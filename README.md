@@ -268,6 +268,9 @@ ask-ai/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Credits
+Credits for website favicon: <a href="https://www.flaticon.com/free-icons/robot" title="robot icons">Robot icons created by Hilmy Abiyyu A. - Flaticon</a>
+
 ## Author
 
 **live-by-unix**  
